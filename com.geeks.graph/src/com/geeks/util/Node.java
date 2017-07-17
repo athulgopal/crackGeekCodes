@@ -1,7 +1,7 @@
 package com.geeks.util;
 
 /**
- * Created by wipro on 7/17/17.
+ * Util Node
  */
 public class Node {
     private Node left;
