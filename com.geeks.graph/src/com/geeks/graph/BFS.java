@@ -4,7 +4,7 @@ import com.geeks.util.Node;
 import java.util.ArrayList;
 
 /**
- * Created by wipro on 7/17/17.
+ * Breadth first search Algorithm with the help of a list
  */
 public class BFS {
     public static ArrayList list=new ArrayList();

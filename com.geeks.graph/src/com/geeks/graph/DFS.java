@@ -3,7 +3,7 @@ package com.geeks.graph;
 import com.geeks.util.Node;
 
 /**
- * Created by wipro on 7/17/17.
+ * Depth first search with recursion model.
  */
 public class DFS {
     public static Node root=null;
