@@ -7,7 +7,7 @@ import java.util.ArrayList;
  * Breadth first search Algorithm with the help of a list
  */
 public class BFS {
-    public static ArrayList list=new ArrayList();
+    public static ArrayList<Node> list=new ArrayList<Node>();
     public static Node root=null;
     public void initGraph() {
         Node node1 = new Node(1);
